@@ -1,0 +1,39 @@
+# Byte-compiled / caches
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Full data and generated shards (NOT distributed; keep only data_demo/)
+/shards/
+/data/
+*.hdr
+# Large raw / model-ready cubes anywhere except the small demo folder
+/**/shards/**/*.npy
+!data_demo/**
+
+# Model checkpoints and training artifacts
+*.pt
+*.pth
+
+# Run outputs, logs, figures, result tables
+outputs/
+outputs*/
+logs/
+*.log
+*.png
+*.pdf
+*.xlsx
+# keep result CSVs out of the repo, but not the demo manifest
+*.csv
+!data_demo/**/manifest.csv
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/

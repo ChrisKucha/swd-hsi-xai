@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated article."
+title: "Explanation-Validated Deep Learning for Non-Destructive Classification of Spotted Wing Drosophila-Infested Blueberries Using Hyperspectral Imaging"
+authors:
+  - family-names: Dahiya
+    given-names: Priyanka
+    affiliation: University of Georgia
+  - family-names: Kucha
+    given-names: Christopher
+    affiliation: University of Georgia
+  - family-names: Sial
+    given-names: Ashfaq
+    affiliation: University of Georgia
+version: "1.0.0"
+date-released: "2026-09-28"
+license: MIT
+# repository-code: "https://github.com/<your-username>/<repo-name>"
+# doi: "add on acceptance"
+preferred-citation:
+  type: article
+  title: "Explanation-Validated Deep Learning for Non-Destructive Classification of Spotted Wing Drosophila-Infested Blueberries Using Hyperspectral Imaging"
+  journal: "Computers and Electronics in Agriculture"
+  year: 2026
+  authors:
+    - family-names: Dahiya
+      given-names: Priyanka
+    - family-names: Kucha
+      given-names: Christopher
+    - family-names: Sial
+      given-names: Ashfaq
