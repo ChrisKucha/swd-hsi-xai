@@ -135,7 +135,7 @@ McNemar's test on any two runs' per-sample prediction CSVs:
 python scripts/mcnemar_compare.py <run_A>_results.csv <run_B>_results.csv
 ```
 
-## Manuscript figures
+## Plots
 
 The paper's 3-seed figures (full-spectrum and selected-wavelength confusion
 panels, stage-specific performance, cross-stage accuracy, selected wavelengths,
