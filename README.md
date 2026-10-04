@@ -1,4 +1,4 @@
-# Deep Learning with Validated Explanations for Hyperspectral Classification of SWD-Infested Postharvest Blueberries Imaging
+# Deep Learning with Validated Explanations for Hyperspectral Classification of SWD-Infested Postharvest Blueberries
 
 Source code for the study of hyperspectral, spatial-spectral deep learning
 (3D-CNN and 3D-CNN-Transformer) for non-destructive classification of
